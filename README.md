@@ -6,7 +6,7 @@ I'm an IT professional and software developer passionate about building innovati
 
 I have hands-on experience in various technologies like **Vue.js**, **React.js**, **Next.js**, and **Laravel** for web development, and **Flutter** for mobile app development. I enjoy working on complex projects, ensuring they meet user needs while maintaining high performance and scalability.
 
-In my free time, I love learning languages, and I am currently focusing on **Russian** and **Korean**. I also enjoy listening to Russian music.
+In my free time, I love learning languages, and I am currently focusing on **Russian**. I also enjoy listening to Russian music.
 
 ## Technologies I Work With:
 
