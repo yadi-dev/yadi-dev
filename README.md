@@ -1,4 +1,4 @@
-# Hello Everyone! 👋 I'm Yadi
+# Hello Everyone! 
 ## 🚀 About Me
 I'm a passionate **software developer** specializing in web and mobile application development. I'm always eager to learn new technologies and apply them to innovative projects.
 ## 🛠 Technologies and Tools
@@ -19,10 +19,3 @@ I'm a passionate **software developer** specializing in web and mobile applicati
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-## 🎓 Education
-- **SMK Telkom Makassar**, Software Engineering (2021 - 2025)
-## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammmad-nuriyadi)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammmadnuriyadi@gmail.com)
-## 🎉 Fun Fact
-I'm currently learning **Russian** and enjoy listening to Russian music.
